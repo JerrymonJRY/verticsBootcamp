@@ -1,0 +1,3548 @@
+
+
+
+
+
+
+/* Extra small devices (phones, 320px and up, including older iPhones like SE) */
+@media only screen and (min-width: 320px) {
+
+  .bannercontainerbackground
+  {
+
+   width: 100%;
+   height: auto;
+   margin-top: -176px;
+
+  }
+
+
+  .vectorbackground
+  {
+   width: 96%;
+   height: 344px;
+   /* margin-left: -13px; */
+   margin: 0 auto;
+       margin-top: -186px;
+       margin-left: 8px;
+
+
+  }
+
+  .header-carousel .owl-nav {
+    position: absolute;
+    width: 290px;
+    height: 80px;
+    bottom: 75px;
+    left: 50%;
+    transform: translateX(-50%);
+    display: flex;
+    justify-content: space-between;
+ }
+
+ .header-carousel .owl-dots {
+  position: absolute;
+  height: 0px;
+  bottom: 15px;
+ }
+
+ .bannerh6
+  {
+
+    display: block;
+    margin-top: -250px;
+    font-size: 20px;
+    margin-right: 40px;
+    text-align: center;
+  }
+
+  .layertexts
+  {
+   padding-top: 5px;
+   padding-bottom: 6px;
+   /* border-bottom: 1px solid #eee; */
+  }
+
+  .subheaders
+  {
+  display: block;
+  }
+  .left-buttons
+  {
+   float: left;
+       margin-left: -20px;
+       font-size: 13px;
+   }
+   .right-button
+   {
+     margin-right: 0px;
+   }
+.logins
+{
+ display: block;
+}
+   .topbaricons
+   {
+     padding: 5px 11px;
+     margin-left: 17px;
+   }
+   .search-box input
+    {
+      width: 60%;
+        margin-left: 18px;
+    }
+
+.loginicons
+{
+ padding-top: 6px !important;
+}
+.logintext
+{
+  display: none;
+}
+   .loginbaricons
+   {
+     padding: 9px 7px !important
+   }
+
+   .owl-carousel-item {
+    width: 94%;
+    margin-left: 4px;
+    margin-top: 0;
+}
+.bannerright
+{
+  padding-top: 150px;
+}
+.layerimg
+{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+li.active::after {
+
+  padding-bottom: 0px !important;
+}
+
+.layertex
+{
+  font-size: 15px;
+}
+.centerbackground
+{
+  padding-top: 211px;
+}
+.serviceicons
+{
+  margin-bottom: 10px;
+}
+.social-icons
+{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.location
+{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 14px;
+  margin-top: 10px;
+  text-align: center;
+}
+.call-icon
+{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 20px;
+}
+
+
+.aboutbanner
+{
+  height: auto;
+}
+
+.aboutbackground
+{
+  height: auto;
+  left: 0;
+  margin-top: -15px;
+  padding-bottom: 16px;
+}
+
+.videocontent
+  {
+    padding-top: 50px;
+  }
+  .videocontent p
+  {
+    padding-bottom: 20px;
+  }
+
+  .clientsbackground
+  {
+    padding-top: 297px;
+  }
+  .bannerheading
+  {
+    display: flex;
+  }
+
+  .addressbackground
+  {
+    background:#F0F4E9;
+    display: block;
+    width: 100%;
+  }
+
+  .contactsubheader
+  {
+    width: 99%;
+  }
+  .contactofiice
+  {
+    padding-left: 20px;
+  }
+  .contactss
+  {
+    display: flex;
+    justify-content: center;
+  }
+  .adresshead
+  {
+    text-align: center;
+  }
+  .addresshead2
+  {
+    padding-bottom: 20px;
+    text-align: center;
+  }
+  .box
+{
+    width: 100%;
+}
+
+.chat-icons
+{
+  right: 0px;
+  bottom: 40px;
+}
+
+.videocontent h3
+{
+  font-size: 24px;
+}
+.play-button
+{
+  top: 78%;
+}
+
+svg {
+  width: 100%;
+  height: 100%;
+}
+
+
+.linkedinapplys
+{
+  font-size: 13px;
+}
+.applybuttons
+{
+  font-size: 13px;
+}
+
+
+.aboutvideo
+{
+  height: auto !important;
+}
+
+#bg-videos
+{
+  min-height: 30vh;
+}
+
+.assetsbannerone
+{
+  height: 160px;
+}
+.productlistimg
+{
+  display:none;
+}
+
+.selfserviceheading
+{
+  padding-top: 31px !important;
+}
+
+.selfserviceheading h1
+{
+  font-size: 22px;
+}
+
+.know-more-button
+{
+  padding: 5px 10px;
+  font-size: 14px;
+}
+
+.assetsbannercontainer
+{
+  left: 0;
+}
+
+
+.chat-box 
+{
+  top: 140px;
+}
+
+.footerlocation
+{
+  text-align: center;
+  color: #fff;
+}
+  
+}
+
+/* iPhone 6, 7, 8, SE (375px width) */
+@media only screen and (min-width: 375px) {
+  .bannercontainerbackground
+  {
+
+   width: 100%;
+   height: auto;
+   margin-top: -182px;
+
+  }
+
+
+  .vectorbackground
+  {
+   width: 96%;
+   height: 344px;
+   /* margin-left: -13px; */
+   margin: 0 auto;
+       margin-top: -186px;
+       margin-left: 8px;
+
+
+  }
+
+  .header-carousel .owl-nav {
+    position: absolute;
+    width: 315px;
+    height: 80px;
+    bottom: 80px;
+    left: 50%;
+    transform: translateX(-50%);
+    display: flex;
+    justify-content: space-between;
+ }
+
+ .header-carousel .owl-dots {
+  position: absolute;
+  height: 0px;
+  bottom: 15px;
+ }
+
+ li.active::after {
+
+  padding-bottom: 0px !important;
+}
+
+ .bannerh6
+  {
+
+    display: block;
+    margin-top: -250px;
+    font-size: 20px;
+    margin-right: 40px;
+    text-align: center;
+  }
+
+  .layertexts
+  {
+   padding-top: 5px;
+   padding-bottom: 6px;
+   /* border-bottom: 1px solid #eee; */
+  }
+
+  .subheaders
+  {
+  display: block;
+  }
+  .left-buttons
+  {
+   float: left;
+       margin-left: -20px;
+       font-size: 13px;
+   }
+   .right-button
+   {
+     margin-right: 0px;
+   }
+.logins
+{
+ display: block;
+}
+   .topbaricons
+   {
+     padding: 5px 11px;
+     margin-left: 17px;
+   }
+   .search-box input
+    {
+      width: 60%;
+        margin-left: 18px;
+    }
+
+.loginicons
+{
+ padding-top: 6px !important;
+}
+.logintext
+{
+  display: none;
+}
+   .loginbaricons
+   {
+     padding: 9px 7px !important
+   }
+
+   .owl-carousel-item {
+    width: 94%;
+    margin-left: 5px;
+    margin-top: 0;
+}
+.bannerright
+{
+  padding-top: 150px;
+}
+.layerimg
+{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.layertex
+{
+  font-size: 15px;
+}
+.centerbackground
+{
+  padding-top: 211px;
+}
+.serviceicons
+{
+  margin-bottom: 10px;
+}
+.social-icons
+{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.location
+{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 14px;
+  margin-top: 10px;
+  text-align: center;
+}
+.call-icon
+{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 20px;
+}
+
+
+.aboutbanner
+{
+  height: auto;
+}
+
+.aboutbackground
+{
+  height: auto;
+  left: 0;
+  margin-top: -15px;
+  padding-bottom: 16px;
+}
+
+.videocontent
+  {
+    padding-top: 50px;
+  }
+  .videocontent p
+  {
+    padding-bottom: 20px;
+  }
+
+  .clientsbackground
+  {
+    padding-top: 297px;
+  }
+  .bannerheading
+  {
+    display: flex;
+  }
+
+  .addressbackground
+  {
+    background:#F0F4E9;
+    display: block;
+    width: 100%;
+  }
+
+  .contactsubheader
+  {
+    width: 99%;
+  }
+  .contactofiice
+  {
+    padding-left: 20px;
+  }
+  .contactss
+  {
+    display: flex;
+    justify-content: center;
+  }
+  .adresshead
+  {
+    text-align: center;
+  }
+  .addresshead2
+  {
+    padding-bottom: 20px;
+    text-align: center;
+  }
+  .box
+{
+    width: 100%;
+}
+
+.chat-icons
+{
+  right: 0px;
+  bottom: 40px;
+}
+
+.chat-box 
+{
+  top: 220px;
+}
+
+.videocontent h3
+{
+  font-size: 24px;
+}
+.play-button
+{
+  top: 78%;
+}
+
+svg {
+  width: 100%;
+  height: 100%;
+}
+
+
+.linkedinapplys
+{
+  font-size: 13px;
+}
+.applybuttons
+{
+  font-size: 13px;
+}
+
+
+.aboutvideo
+{
+  height: auto !important;
+}
+
+#bg-videos
+{
+  min-height: 26vh !important;
+}
+
+.assetsbannerone
+{
+  height: 172px !important;
+}
+.productlistimg
+{
+  display:none;
+}
+
+.selfserviceheading
+{
+  padding-top: 31px !important;
+}
+
+.selfserviceheading h1
+{
+  font-size: 22px;
+}
+
+.know-more-button
+{
+  padding: 5px 10px;
+  font-size: 14px;
+}
+
+.assetsbannercontainer
+{
+  left: 0;
+}
+
+.footerlocation
+{
+  text-align: center;
+  color: #fff;
+}
+}
+
+/* iPhone XR, 11, 12 Mini, 13 Mini, 14, 15 (390px width) */
+@media only screen and (min-width: 390px) {
+
+  .bannercontainerbackground
+  {
+
+   width: 100%;
+   height: auto;
+   margin-top: -275px;
+
+  }
+
+  li.active::after {
+
+    padding-bottom: 0px !important;
+  }
+  .vectorbackground
+  {
+   width: 96%;
+   height: 344px;
+   /* margin-left: -13px; */
+   margin: 0 auto;
+       margin-top: -186px;
+       margin-left: 8px;
+
+
+  }
+
+  .header-carousel .owl-nav {
+    position: absolute;
+    width: 320px;
+    height: 80px;
+    bottom: 86px;
+    left: 50%;
+    transform: translateX(-50%);
+    display: flex;
+    justify-content: space-between;
+ }
+
+ .header-carousel .owl-dots {
+  position: absolute;
+  height: 0px;
+  bottom: 15px;
+ }
+
+ .bannerh6
+  {
+
+    display: block;
+    margin-top: -250px;
+    font-size: 20px;
+    margin-right: 60px;
+    text-align: center;
+  }
+
+  .layertexts
+  {
+   padding-top: 5px;
+   padding-bottom: 6px;
+   /* border-bottom: 1px solid #eee; */
+  }
+
+  .subheaders
+  {
+  display: block;
+  }
+  .left-buttons
+  {
+   float: left;
+       margin-left: -20px;
+       font-size: 13px;
+   }
+   .right-button
+   {
+     margin-right: 0px;
+   }
+.logins
+{
+ display: block;
+}
+   .topbaricons
+   {
+     padding: 5px 11px;
+     margin-left: 17px;
+   }
+   .search-box input
+    {
+      width: 60%;
+        margin-left: 18px;
+    }
+
+.loginicons
+{
+ padding-top: 6px !important;
+}
+.logintext
+{
+  display: none;
+}
+   .loginbaricons
+   {
+     padding: 9px 7px !important
+   }
+
+   .owl-carousel-item {
+    width: 94%;
+    margin-left: 5px;
+    margin-top: 0;
+}
+.bannerright
+{
+  padding-top: 160px;
+}
+.layerimg
+{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.layertex
+{
+  font-size: 15px;
+}
+.centerbackground
+{
+  padding-top: 211px;
+}
+.serviceicons
+{
+  margin-bottom: 10px;
+}
+.social-icons
+{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.location
+{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 14px;
+  margin-top: 10px;
+  text-align: center;
+}
+.call-icon
+{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 20px;
+}
+
+
+.aboutbanner
+{
+  height: auto;
+}
+
+.aboutbackground
+{
+  height: auto;
+  left: 0;
+  margin-top: -15px;
+  padding-bottom: 16px;
+}
+
+.videocontent
+  {
+    padding-top: 50px;
+  }
+  .videocontent p
+  {
+    padding-bottom: 20px;
+  }
+
+  .clientsbackground
+  {
+    padding-top: 297px;
+  }
+  .bannerheading
+  {
+    display: flex;
+  }
+
+  .addressbackground
+  {
+    background:#F0F4E9;
+    display: block;
+    width: 100%;
+  }
+
+  .contactsubheader
+  {
+    width: 99%;
+  }
+  .contactofiice
+  {
+    padding-left: 20px;
+  }
+  .contactss
+  {
+    display: flex;
+    justify-content: center;
+  }
+  .adresshead
+  {
+    text-align: center;
+  }
+  .addresshead2
+  {
+    padding-bottom: 20px;
+    text-align: center;
+  }
+  .box
+{
+    width: 100%;
+}
+
+.chat-icons
+{
+  right: 0px;
+  bottom: 40px;
+}
+
+
+.chat-box 
+{
+  top: 220px;
+}
+
+.videocontent h3
+{
+  font-size: 24px;
+}
+.play-button
+{
+  top: 78%;
+}
+
+svg {
+  width: 100%;
+  height: 100%;
+ 
+}
+
+
+.pointer {
+  fill: #fff;
+  stroke: black;
+  stroke-width: 8px;
+  border-radius: 50%;
+}
+
+.city-label {
+  font-size: 29px;
+  font-family: 'Dubai';
+  font-weight: 500;
+  text-anchor: middle;
+  fill: #fff;
+  transform: translateY(18px);
+}
+
+
+.label {
+  font-family: 'Dubai';
+  font-size: 20px;
+  font-weight: 500;
+  fill: #030000;
+}
+
+
+.linkedinapplys
+{
+  font-size: 13px;
+}
+.applybuttons
+{
+  font-size: 13px;
+}
+
+
+.aboutvideo
+{
+  height: auto !important;
+}
+
+#bg-videos
+{
+  min-height: 22vh !important;
+}
+
+.assetsbannerone
+{
+  height: 180px !important;
+}
+.productlistimg
+{
+  display:none;
+}
+
+.selfserviceheading
+{
+  padding-top: 31px !important;
+}
+
+.selfserviceheading h1
+{
+  font-size: 22px;
+}
+
+.know-more-button
+{
+  padding: 5px 10px;
+  font-size: 14px;
+}
+
+.assetsbannercontainer
+{
+  left: 0;
+}
+
+.footerlocation
+{
+  text-align: center;
+  color: #fff;
+}
+
+}
+
+
+@media screen and (max-width: 400px) {
+  
+  .bannercontainerbackground
+  {
+
+   width: 100%;
+   height: auto;
+   margin-top: -275px;
+
+  }
+
+  li.active::after {
+
+    padding-bottom: 0px !important;
+  }
+  .vectorbackground
+  {
+   width: 96%;
+   height: 344px;
+   /* margin-left: -13px; */
+   margin: 0 auto;
+       margin-top: -186px;
+       margin-left: 8px;
+
+
+  }
+
+  .header-carousel .owl-nav {
+    position: absolute;
+    width: 320px;
+    height: 80px;
+    bottom: 86px;
+    left: 50%;
+    transform: translateX(-50%);
+    display: flex;
+    justify-content: space-between;
+ }
+
+ .header-carousel .owl-dots {
+  position: absolute;
+  height: 0px;
+  bottom: 15px;
+ }
+
+ .bannerh6
+  {
+
+    display: block;
+    margin-top: -250px;
+    font-size: 20px;
+    margin-right: 60px;
+    text-align: center;
+  }
+
+  .layertexts
+  {
+   padding-top: 5px;
+   padding-bottom: 6px;
+   /* border-bottom: 1px solid #eee; */
+  }
+
+  .subheaders
+  {
+  display: block;
+  }
+  .left-buttons
+  {
+   float: left;
+       margin-left: -20px;
+       font-size: 13px;
+   }
+   .right-button
+   {
+     margin-right: 0px;
+   }
+.logins
+{
+ display: block;
+}
+   .topbaricons
+   {
+     padding: 5px 11px;
+     margin-left: 17px;
+   }
+   .search-box input
+    {
+      width: 60%;
+        margin-left: 18px;
+    }
+
+.loginicons
+{
+ padding-top: 6px !important;
+}
+.logintext
+{
+  display: none;
+}
+   .loginbaricons
+   {
+     padding: 9px 7px !important
+   }
+
+   .owl-carousel-item {
+    width: 94%;
+    margin-left: 5px;
+    margin-top: 0;
+}
+.bannerright
+{
+  padding-top: 160px;
+}
+.layerimg
+{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.layertex
+{
+  font-size: 15px;
+}
+.centerbackground
+{
+  padding-top: 211px;
+}
+.serviceicons
+{
+  margin-bottom: 10px;
+}
+.social-icons
+{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.location
+{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 14px;
+  margin-top: 10px;
+  text-align: center;
+}
+.call-icon
+{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 20px;
+}
+
+
+.aboutbanner
+{
+  height: auto;
+}
+
+.aboutbackground
+{
+  height: auto;
+  left: 0;
+  margin-top: -15px;
+  padding-bottom: 16px;
+}
+
+.videocontent
+  {
+    padding-top: 50px;
+  }
+  .videocontent p
+  {
+    padding-bottom: 20px;
+  }
+
+  .clientsbackground
+  {
+    padding-top: 297px;
+  }
+  .bannerheading
+  {
+    display: flex;
+  }
+
+  .addressbackground
+  {
+    background:#F0F4E9;
+    display: block;
+    width: 100%;
+  }
+
+  .contactsubheader
+  {
+    width: 99%;
+  }
+  .contactofiice
+  {
+    padding-left: 20px;
+  }
+  .contactss
+  {
+    display: flex;
+    justify-content: center;
+  }
+  .adresshead
+  {
+    text-align: center;
+  }
+  .addresshead2
+  {
+    padding-bottom: 20px;
+    text-align: center;
+  }
+  .box
+{
+    width: 100%;
+}
+
+.chat-icons
+{
+  right: 0px;
+  bottom: 40px;
+}
+
+
+.chat-box 
+{
+  top: 220px;
+}
+
+.videocontent h3
+{
+  font-size: 24px;
+}
+.play-button
+{
+  top: 78%;
+}
+
+svg {
+  width: 100%;
+  height: 100%;
+ 
+}
+
+
+.pointer {
+  fill: #fff;
+  stroke: black;
+  stroke-width: 8px;
+  border-radius: 50%;
+}
+
+.city-label {
+  font-size: 29px;
+  font-family: 'Dubai';
+  font-weight: 500;
+  text-anchor: middle;
+  fill: #fff;
+  transform: translateY(18px);
+}
+
+
+.label {
+  font-family: 'Dubai';
+  font-size: 20px;
+  font-weight: 500;
+  fill: #030000;
+}
+
+
+.linkedinapplys
+{
+  font-size: 13px;
+}
+.applybuttons
+{
+  font-size: 13px;
+}
+
+
+.aboutvideo
+{
+  height: auto !important;
+}
+
+#bg-videos
+{
+  min-height: 23vh !important;
+}
+
+.assetsbannerone
+{
+  height: 181px !important;
+}
+.productlistimg
+{
+  display:none;
+}
+
+.selfserviceheading
+{
+  padding-top: 31px !important;
+}
+
+.selfserviceheading h1
+{
+  font-size: 22px;
+}
+
+.know-more-button
+{
+  padding: 5px 10px;
+  font-size: 14px;
+}
+
+.assetsbannercontainer
+{
+  left: 0;
+}
+
+
+.footerlocation
+{
+  text-align: center;
+  color: #fff;
+}
+
+}
+
+
+
+/* iPhone 11 Pro Max, 12 Pro Max, 13 Pro Max, 14 Pro Max, 15 Pro Max (430px width) */
+@media only screen and (min-width: 430px) {
+  
+  .bannercontainerbackground
+  {
+
+   width: 100%;
+   height: auto;
+   margin-top: -321px;
+
+  }
+
+  li.active::after {
+
+    padding-bottom: 0px !important;
+  }
+
+  .vectorbackground
+  {
+   width: 96%;
+   height: 344px;
+   /* margin-left: -13px; */
+   margin: 0 auto;
+       margin-top: -186px;
+       margin-left: 8px;
+
+
+  }
+
+  .header-carousel .owl-nav {
+    position: absolute;
+    width: 355px;
+    height: 80px;
+    bottom: 102px;
+    left: 50%;
+    transform: translateX(-50%);
+    display: flex;
+    justify-content: space-between;
+ }
+
+ .header-carousel .owl-dots {
+  position: absolute;
+  height: 0px;
+  bottom: 15px;
+ }
+ .bannerh6
+  {
+
+    display: block;
+    margin-top: -250px;
+    font-size: 20px;
+    margin-right: 79px;
+    text-align: center;
+  }
+
+  .layertexts
+  {
+   padding-top: 5px;
+   padding-bottom: 6px;
+   /* border-bottom: 1px solid #eee; */
+  }
+
+  .subheaders
+  {
+  display: block;
+  }
+  .left-buttons
+  {
+   float: left;
+       margin-left: -20px;
+       font-size: 13px;
+   }
+   .right-button
+   {
+     margin-right: 0px;
+   }
+.logins
+{
+ display: block;
+}
+   .topbaricons
+   {
+     padding: 5px 11px;
+     margin-left: 17px;
+   }
+   .search-box input
+    {
+      width: 60%;
+        margin-left: 18px;
+    }
+
+.loginicons
+{
+ padding-top: 6px !important;
+}
+.logintext
+{
+  display: none;
+}
+   .loginbaricons
+   {
+     padding: 9px 7px !important
+   }
+
+   .owl-carousel-item {
+    width: 94%;
+    margin-left: 5px;
+    margin-top: 0;
+}
+.bannerright
+{
+  padding-top: 170px;
+}
+.layerimg
+{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.layertex
+{
+  font-size: 15px;
+}
+.centerbackground
+{
+  padding-top: 211px;
+}
+.serviceicons
+{
+  margin-bottom: 10px;
+}
+.social-icons
+{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+}
+.location
+{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 14px;
+  margin-top: 10px;
+}
+.call-icon
+{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 20px;
+}
+
+
+.aboutbanner
+{
+  height: auto;
+}
+
+.aboutbackground
+{
+  height: auto;
+  left: 0;
+  margin-top: -15px;
+  padding-bottom: 16px;
+}
+
+.videocontent
+  {
+    padding-top: 50px;
+  }
+  .videocontent p
+  {
+    padding-bottom: 20px;
+  }
+
+  .clientsbackground
+  {
+    padding-top: 297px;
+  }
+  .bannerheading
+  {
+    display: flex;
+  }
+
+  .addressbackground
+  {
+    background:#F0F4E9;
+    display: block;
+    width: 100%;
+  }
+
+  .contactsubheader
+  {
+    width: 99%;
+  }
+  .contactofiice
+  {
+    padding-left: 20px;
+  }
+  .contactss
+  {
+    display: flex;
+    justify-content: center;
+  }
+  .adresshead
+  {
+    text-align: center;
+  }
+  .addresshead2
+  {
+    padding-bottom: 20px;
+    text-align: center;
+  }
+  .box
+{
+    width: 100%;
+}
+
+.chat-icons
+{
+  right: 0px;
+  bottom: 40px;
+}
+
+.videocontent h3
+{
+  font-size: 24px;
+}
+.play-button
+{
+  top: 78%;
+}
+
+svg {
+  width: 100%;
+  height: 100%;
+}
+
+
+.linkedinapplys
+{
+  font-size: 13px;
+}
+.applybuttons
+{
+  font-size: 13px;
+}
+
+
+.aboutvideo
+{
+  height: auto !important;
+}
+
+#bg-videos
+{
+  min-height: 20vh !important;
+}
+
+.assetsbannerone
+{
+  height: 185px !important;
+}
+.productlistimg
+{
+  display:none;
+}
+
+.selfserviceheading
+{
+  padding-top: 31px !important;
+}
+
+.selfserviceheading h1
+{
+  font-size: 22px;
+}
+
+.know-more-button
+{
+  padding: 5px 10px;
+  font-size: 14px;
+}
+
+.assetsbannercontainer
+{
+  left: 0;
+}
+
+.chat-box 
+{
+  top: 220px;
+}
+
+.footerlocation
+{
+  text-align: center;
+  color: #fff;
+}
+}
+
+/* Small devices (phones, 480px and up) */
+@media only screen and (min-width: 480px) {
+  .bannercontainerbackground
+  {
+
+   width: 100%;
+   height: auto;
+   margin-top: -321px;
+
+  }
+
+
+  li.active::after {
+
+    padding-bottom: 0px !important;
+  }
+
+
+  .vectorbackground
+  {
+   width: 96%;
+   height: 344px;
+   /* margin-left: -13px; */
+   margin: 0 auto;
+       margin-top: -186px;
+       margin-left: 8px;
+
+
+  }
+
+  .header-carousel .owl-nav {
+    position: absolute;
+    width: 355px;
+    height: 80px;
+    bottom: 102px;
+    left: 50%;
+    transform: translateX(-50%);
+    display: flex;
+    justify-content: space-between;
+ }
+
+ .header-carousel .owl-dots {
+  position: absolute;
+  height: 0px;
+  bottom: 15px;
+ }
+
+ .bannerh6
+  {
+
+    display: block;
+    margin-top: -250px;
+    font-size: 20px;
+    margin-right: 79px;
+    text-align: center;
+  }
+
+  .layertexts
+  {
+   padding-top: 5px;
+   padding-bottom: 6px;
+   /* border-bottom: 1px solid #eee; */
+  }
+
+  .subheaders
+  {
+  display: block;
+  }
+  .left-buttons
+  {
+   float: left;
+       margin-left: -20px;
+       font-size: 13px;
+   }
+   .right-button
+   {
+     margin-right: 0px;
+   }
+.logins
+{
+ display: block;
+}
+   .topbaricons
+   {
+     padding: 5px 11px;
+     margin-left: 17px;
+   }
+   .search-box input
+    {
+      width: 60%;
+        margin-left: 18px;
+    }
+
+.loginicons
+{
+ padding-top: 6px !important;
+}
+.logintext
+{
+  display: none;
+}
+   .loginbaricons
+   {
+     padding: 9px 7px !important
+   }
+
+   .owl-carousel-item {
+    width: 94%;
+    margin-left: 5px;
+    margin-top: 0;
+}
+.bannerright
+{
+  padding-top: 170px;
+}
+.layerimg
+{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.layertex
+{
+  font-size: 15px;
+}
+.centerbackground
+{
+  padding-top: 211px;
+}
+.serviceicons
+{
+  margin-bottom: 10px;
+}
+.social-icons
+{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.location
+{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 14px;
+  margin-top: 10px;
+}
+.call-icon
+{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 20px;
+}
+
+
+.aboutbanner
+{
+  height: auto;
+}
+
+.aboutbackground
+{
+  height: auto;
+  left: 0;
+  margin-top: -15px;
+  padding-bottom: 16px;
+}
+
+.videocontent
+  {
+    padding-top: 50px;
+  }
+  .videocontent p
+  {
+    padding-bottom: 20px;
+  }
+
+  .clientsbackground
+  {
+    padding-top: 297px;
+  }
+  .bannerheading
+  {
+    display: flex;
+  }
+
+  .addressbackground
+  {
+    background:#F0F4E9;
+    display: block;
+    width: 100%;
+  }
+
+  .contactsubheader
+  {
+    width: 99%;
+  }
+  .contactofiice
+  {
+    padding-left: 20px;
+  }
+  .contactss
+  {
+    display: flex;
+    justify-content: center;
+  }
+  .adresshead
+  {
+    text-align: center;
+  }
+  .addresshead2
+  {
+    padding-bottom: 20px;
+    text-align: center;
+  }
+  .box
+{
+    width: 100%;
+}
+
+.chat-icons
+{
+  right: 0px;
+  bottom: 40px;
+}
+
+.videocontent h3
+{
+  font-size: 24px;
+}
+.play-button
+{
+  top: 78%;
+}
+
+svg {
+  width: 100%;
+  height: 100%;
+}
+
+
+.linkedinapplys
+{
+  font-size: 13px;
+}
+.applybuttons
+{
+  font-size: 13px;
+}
+
+
+.aboutvideo
+{
+  height: auto !important;
+}
+
+#bg-videos
+{
+  min-height: 22vh !important;
+}
+
+.assetsbannerone
+{
+  height: 200px !important;
+}
+.productlistimg
+{
+  display:none;
+}
+
+.selfserviceheading
+{
+  padding-top: 31px !important;
+}
+
+.selfserviceheading h1
+{
+  font-size: 22px;
+}
+
+.know-more-button
+{
+  padding: 5px 10px;
+  font-size: 14px;
+}
+
+.assetsbannercontainer
+{
+  left: 0;
+}
+
+
+.chat-box 
+{
+  top: 220px;
+}
+
+.footerlocation
+{
+  text-align: center;
+  color: #fff;
+}
+
+}
+
+@media (min-width: 495px) and (max-width: 590px) {
+ 
+  .bannercontainerbackground
+  {
+
+   width: 100%;
+   height: auto;
+   margin-top: -215px;
+
+  }
+
+  li.active::after {
+    padding-bottom: 0px !important;
+}
+
+
+  .vectorbackground
+  {
+   width: 96%;
+   height: 450px;
+   /* margin-left: -13px; */
+   margin: 0 auto;
+       margin-top: -275px;
+       margin-left: 8px;
+
+
+  }
+
+  .header-carousel .owl-nav {
+    position: absolute;
+    width: 444px;
+    height: 80px;
+    bottom: 143px;
+    left: 50%;
+    transform: translateX(-50%);
+    display: flex;
+    justify-content: space-between;
+ }
+
+ .header-carousel .owl-dots {
+  position: absolute;
+  height: 0px;
+  bottom: 10px;
+ }
+
+ .bannerh6
+  {
+
+    display: block;
+    margin-top: -319px;
+    font-size: 24px;
+    margin-right: 101px;
+    text-align: center;
+  }
+
+  .layertexts
+  {
+   padding-top: 5px;
+   padding-bottom: 6px;
+   /* border-bottom: 1px solid #eee; */
+  }
+
+  .subheaders
+  {
+  display: block;
+  }
+  .left-buttons
+  {
+   float: left;
+       margin-left: -20px;
+       font-size: 13px;
+   }
+   .right-button
+   {
+     margin-right: 0px;
+   }
+.logins
+{
+ display: block;
+}
+   .topbaricons
+   {
+     padding: 5px 11px;
+     margin-left: 17px;
+   }
+   .search-box input
+    {
+      width: 60%;
+        margin-left: 18px;
+    }
+
+.loginicons
+{
+ padding-top: 6px !important;
+}
+.logintext
+{
+  display: none;
+}
+   .loginbaricons
+   {
+     padding: 9px 7px !important
+   }
+
+   .owl-carousel-item {
+    width: 94%;
+    margin-left: 5px;
+    margin-top: 0;
+}
+.bannerright
+{
+  padding-top: 170px !important;
+}
+.layerimg
+{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.layertex
+{
+  font-size: 15px;
+}
+.centerbackground
+{
+  padding-top: 211px;
+}
+.serviceicons
+{
+  margin-bottom: 10px;
+}
+.social-icons
+{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.location
+{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 14px;
+  margin-top: 10px;
+}
+.call-icon
+{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 20px;
+}
+
+
+.aboutbanner
+{
+  height: auto;
+}
+
+.aboutbackground
+{
+  height: auto;
+  left: 0;
+  margin-top: -15px;
+  padding-bottom: 16px;
+}
+
+.videocontent
+  {
+    padding-top: 50px;
+  }
+  .videocontent p
+  {
+    padding-bottom: 20px;
+  }
+
+  .clientsbackground
+  {
+    padding-top: 100px;
+  }
+  .bannerheading
+  {
+    display: flex;
+  }
+
+  .addressbackground
+  {
+    background:#F0F4E9;
+    display: block;
+    width: 100%;
+  }
+
+  .contactsubheader
+  {
+    width: 99%;
+  }
+  .contactofiice
+  {
+    padding-left: 20px;
+  }
+  .contactss
+  {
+    display: flex;
+    justify-content: center;
+  }
+  .adresshead
+  {
+    text-align: center;
+  }
+  .addresshead2
+  {
+    padding-bottom: 20px;
+    text-align: center;
+  }
+  .box
+{
+    width: 100%;
+}
+
+.chat-icons
+{
+  right: 0px;
+  bottom: 40px;
+}
+
+.videocontent h3
+{
+  font-size: 24px;
+}
+.play-button
+{
+  top: 78%;
+}
+
+svg {
+  width: 100%;
+  height: 100%;
+}
+
+
+.linkedinapplys
+{
+  font-size: 13px;
+}
+.applybuttons
+{
+  font-size: 13px;
+}
+
+
+.aboutvideo
+{
+  height: auto !important;
+}
+
+#bg-videos
+{
+  min-height: 22vh !important;
+}
+
+.assetsbannerone
+{
+  height: 200px !important;
+}
+.productlistimg
+{
+  display:none;
+}
+
+.selfserviceheading
+{
+  padding-top: 31px !important;
+}
+
+.selfserviceheading h1
+{
+  font-size: 22px;
+}
+
+.know-more-button
+{
+  padding: 5px 10px;
+  font-size: 14px;
+}
+
+.assetsbannercontainer
+{
+  left: 0;
+}
+
+
+.chat-box 
+{
+  top: 220px;
+}
+
+.footerlocation
+{
+  text-align: center;
+  color: #fff;
+}
+ 
+}
+
+
+/* Medium devices (tablets, 600px and up) */
+@media only screen and (min-width: 600px) {
+  .vectorbackground
+  {
+    width: 95%;
+    height: 431px;
+    /* margin-left: -13px; */
+    margin: 0 auto;
+    margin-top: -245px;
+    margin-left: 8px;
+
+  }
+
+
+  li.active::after {
+    padding-bottom: 0px !important;
+}
+
+  .header-carousel .owl-nav {
+    position: absolute;
+    width: 400px;
+    height: 69px;
+    bottom: 154px;
+    left: 50%;
+    transform: translateX(-50%);
+    display: flex;
+    justify-content: space-between;
+}
+.header-carousel .owl-dots {
+   bottom: 10px;
+
+}
+
+  .carousel-item
+  {
+   top: 39px;
+  }
+  .bannerh6
+  {
+
+
+      display: block;
+      margin-top: -301px;
+      font-size: 24px;
+      margin-right: 103px;
+      text-align: center;
+
+  }
+  .layertexts
+  {
+   padding-top: 5px;
+   padding-bottom: 6px;
+   /* border-bottom: 1px solid #eee; */
+  }
+
+  .bannercontainerbackground
+  {
+
+   width: 100%;
+   height: auto;
+   margin-top: -165px;
+
+
+  }
+  .subheaders
+  {
+  display: block;
+  }
+  .left-buttons
+  {
+   float: left;
+       margin-left: -20px;
+       font-size: 13px;
+   }
+   .right-button
+   {
+     margin-right: 0px;
+   }
+.logins
+{
+ display: block;
+}
+   .topbaricons
+   {
+     padding: 5px 11px;
+     margin-left: 17px;
+   }
+   .search-box input
+    {
+      width: 60%;
+        margin-left: 18px;
+    }
+
+.loginicons
+{
+ padding-top: 6px !important;
+}
+.logintext
+{
+  display: none;
+}
+   .loginbaricons
+   {
+     padding: 9px 7px !important
+   }
+
+   .owl-carousel-item {
+    width: 94%;
+    margin-left: 15px;
+    margin-top: 0;
+}
+.bannerright
+{
+  /* padding-top: 35px; */
+  padding-top: 200px;
+}
+.layerimg
+{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.layertex
+{
+  font-size: 18px;
+}
+.centerbackground
+{
+  /* padding-top: 211px; */
+  padding-top: 451px;
+        margin-top: -402px;
+}
+.serviceicons
+{
+  margin-bottom: 10px;
+}
+.social-icons
+{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.location
+{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 14px;
+  margin-top: 10px;
+  text-align: center;
+}
+.call-icon
+{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 20px;
+}
+
+
+.aboutbanner
+{
+  height: auto;
+}
+
+.aboutbackground
+{
+  height: auto;
+  left: 0;
+  margin-top: -15px;
+  padding-bottom: 16px;
+}
+
+.videocontent
+  {
+    padding-top: 50px;
+  }
+  .videocontent p
+  {
+    padding-bottom: 20px;
+  }
+
+  .clientsbackground
+  {
+    padding-top: 297px;
+  }
+  .bannerheading
+  {
+    display: flex;
+  }
+
+  .addressbackground
+  {
+    background:#F0F4E9;
+    display: block;
+    width: 100%;
+  }
+
+  .contactsubheader
+  {
+    width: 99%;
+  }
+  .contactofiice
+  {
+    padding-left: 20px;
+  }
+  .contactss
+  {
+    display: flex;
+    justify-content: center;
+  }
+  .adresshead
+  {
+    text-align: center;
+  }
+  .addresshead2
+  {
+    padding-bottom: 20px;
+    text-align: center;
+  }
+  .box
+{
+    width: 100%;
+}
+
+.chat-icons
+{
+  right: 30px;
+  bottom: 40px;
+}
+
+.chat-box 
+{
+  top: 360px;
+}
+
+.videocontent h3
+{
+  font-size: 24px;
+}
+.play-button
+{
+  top: 78%;
+}
+
+
+svg {
+  width: 100%;
+  height: 100%;
+}
+
+
+.aboutvideo
+{
+  height: auto !important;
+}
+
+
+
+.selfserviceheading
+{
+  padding-top: 31px !important;
+}
+
+.selfserviceheading h1
+{
+  font-size: 22px;
+}
+
+.know-more-button
+{
+  padding: 5px 10px;
+  font-size: 14px;
+}
+
+.assetsbannercontainer
+{
+  left: 0;
+}
+  .assetsbannerone
+  {
+    height: 271px !important;
+  }
+
+  #bg-videos
+  {
+   min-height: 32vh !important;
+  }
+  .selfserviceheading
+{
+  padding-top: 71px !important;
+}
+.productlistimg
+{
+  display: none;
+}
+
+.footerlocation
+{
+  text-align: center;
+  color: #fff;
+}
+}
+
+/* Tablets (portrait, 768px and up, including iPad Mini & Air) */
+@media only screen and (min-width: 768px) {
+  .bannercontainerbackground {
+
+    margin-top: -168px !important;
+}
+.vectorbackground
+{
+ margin-top: -174px;
+ width: 50%;
+       height: 302px;
+}
+
+
+.owl-carousel-item {
+ width: 94%;
+ margin-left: 15px;
+ margin-top: 0;
+}
+
+li.active::after {
+  padding-bottom: 0px !important;
+}
+
+.header-carousel .owl-nav {
+
+  bottom: 85px;
+  width: 310px;
+}
+
+  .header-carousel .owl-dots {
+    position: absolute;
+    height: 0px;
+    bottom: 10px;
+   }
+
+
+.owl-carousel-item
+{
+ width: 90%;
+ margin-left: 8px;
+}
+
+.header-carousel .owl-dots
+{
+ padding-top: 34px;
+}
+#bg-video {
+
+ min-height: 35vh;
+}
+.bannerh6
+{
+  font-size: 23px;
+  padding-top: 209px;
+  width: 100%;
+  margin-right: 0;
+}
+
+.bannerright
+{
+  padding-top: 35px;
+  /* padding-top: 200px; */
+}
+
+.layertex
+{
+ font-size: 17px;
+}
+
+.videocontent h3
+{
+ font-size: 20px;
+ padding-top: 0px;
+}
+.videocontent p
+{
+ padding-top: 8px;
+}
+.play-button
+{
+ top: 74%;
+   left: 53%;
+}
+
+
+#bg-videos
+{
+ min-height: 2vh !important;
+}
+
+.assetsbannerone
+{
+ height: 300px !important;
+}
+.productlistimg
+{
+ display:none;
+}
+
+.selfserviceheading
+{
+ padding-top:140px;
+}
+.assetsbannercontainer
+{
+ left:0;
+}
+
+.chat-icons
+{
+  right: 30px;
+}
+
+.chat-box 
+{
+  top: 360px !important;
+}
+.contactofiice
+{
+  padding-left: 20px;
+}
+
+.footerlocation
+{
+  text-align: center;
+  color: #fff;
+}
+.aboutbanner
+{
+  height: auto;
+  padding-bottom: 200px;
+}
+
+}
+
+/* iPad Mini (768px width) */
+@media only screen and (min-width: 768px) {
+  /* Your styles here */
+}
+
+/* iPad (9.7-inch, 768px width) */
+@media only screen and (min-width: 768px) {
+  /* Your styles here */
+}
+
+/* iPad Air (10.5-inch, 834px width) */
+@media only screen and (min-width: 834px) {
+  /* Your styles here */
+}
+
+/* iPad Pro 10.5-inch (834px width) */
+@media only screen and (min-width: 834px) {
+  /* Your styles here */
+}
+
+/* iPad Pro 11-inch (834px width) */
+@media only screen and (min-width: 834px) {
+  /* Your styles here */
+}
+
+/* iPad Pro 12.9-inch (1024px width) */
+@media only screen and (min-width: 1024px) {
+  .bannercontainerbackground {
+
+    margin-top: -280px !important;
+    margin-bottom: 20px;
+}
+.vectorbackground {
+  margin-top: -208px;
+  width: 42%;
+  height: 426px;
+  margin-left: 20px;
+}
+
+.owl-carousel-item {
+ width: 94%;
+ margin-left: 15px;
+ margin-top: 0;
+}
+
+
+li.active::after {
+  padding-bottom: 13px !important;
+}
+
+.header-carousel .owl-nav {
+
+ /* bottom: 200px;
+ width: 366px; */
+ width: 353px;
+ height: 80px;
+ bottom: 103px ;
+
+}
+
+.owl-carousel-item
+{
+ width: 94%;
+ margin-left: 5px;
+
+}
+
+.header-carousel .owl-dots
+{
+ padding-top: 34px;
+}
+#bg-video {
+
+ min-height: 35vh !important;
+}
+.bannerh6
+{
+ font-size: 32px;
+ padding-top: 189px;
+
+}
+
+.bannerright
+{
+  padding-top: 35px;
+  /* padding-top: 200px; */
+}
+
+.centerbackground
+{
+ margin-top: -251px;
+}
+
+#bg-videos
+{
+ min-height: 26vh !important;
+}
+
+.selfserviceheading
+{
+ padding-top:140px !important;
+}
+
+.assetsbannerone
+{
+ height: 400px !important;
+}
+
+.chat-icons
+{
+  right: 30px;
+}
+
+.chat-box 
+{
+  top: 360px !important;
+}
+
+.assetsbannercontainer
+{
+  left: 10%;
+}
+
+.selfserviceheading {
+  padding-top: 180px !important;
+}
+
+.productlistimg {
+  display: block;
+}
+
+.contactofiice
+{
+  padding-left: 0px;
+}
+.footerlocation
+{
+  text-align: center;
+  color: #fff;
+}
+.aboutbanner
+{
+  height: auto;
+  padding-bottom: 200px;
+}
+.adresshead
+{
+  text-align: left;
+}
+.contactss
+{
+  justify-content: start;
+}
+}
+
+/* Small laptops (MacBook Air 13-inch, 14-inch, 1280px and up) */
+@media only screen and (min-width: 1280px) {
+  .bannercontainerbackground
+  {
+
+   width: 100%;
+   height: auto;
+   margin-top: -210px !important;
+   margin-bottom: 20px;
+
+  }
+
+  .bannerh6
+  {
+    font-size: 39px;
+  }
+
+  li.active::after {
+    padding-bottom: 13px !important;
+}
+
+  .header-carousel .owl-nav {
+
+    width: 422px;
+    height: 80px;
+    bottom: 137px;
+    left: 50%;
+    transform: translateX(-50%);
+    display: flex;
+    justify-content: space-between;
+ }
+ .play-button
+ {
+  top: 70%;
+    left: 53%;
+ }
+
+ .videocontent h3
+ {
+  padding-top: 6px;
+  font-size: 28px;
+ }
+ .applybuttons
+ {
+  font-size: 14px;
+ }
+
+ .assetsbannerone
+ {
+  height: 500px !important;
+ }
+
+ #bg-videos
+ {
+  min-height: 67vh !important;
+ }
+ .chat-box 
+{
+  top: 190px !important;
+}
+.contactofiice
+{
+  padding-left: 0px;
+}
+.social-icons
+{
+  margin-top: 20px !important;
+}
+
+.footerlocation
+{
+  display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 14px;
+    margin-top: 23px;
+    text-align: center;
+    color: #fff;
+}
+  
+.addressbackground
+{
+background: linear-gradient(to right, #fff 63%, #F0F4E9 37%);
+  display: flex;
+  justify-content: center;
+}
+
+.assetsbannercontainer
+{
+  left: 10%;
+}
+
+.selfserviceheading {
+  padding-top: 180px !important;
+}
+
+.productlistimg {
+  display: block;
+}
+
+.aboutbanner
+{
+  height: auto;
+  padding-bottom: 200px;
+}
+.adresshead
+{
+  text-align: left;
+}
+
+.contactss
+{
+  justify-content: start;
+}
+}
+
+
+@media only screen and (min-width: 1366px) {
+  .bannercontainerbackground
+  {
+
+   width: 100%;
+   height: auto;
+   margin-top: -166px !important;
+   margin-bottom: 20px;
+
+  }
+
+  li.active::after {
+    padding-bottom: 13px !important;
+}
+
+  .vectorbackground {
+    margin-top: -208px;
+    width: 42%;
+    height: 456px;
+    margin-left: 20px;
+  }
+
+  .bannerh6
+  {
+    font-size: 39px;
+  }
+
+
+  .header-carousel .owl-nav {
+
+    width: 422px;
+    height: 80px;
+    bottom: 137px;
+    left: 50%;
+    transform: translateX(-50%);
+    display: flex;
+    justify-content: space-between;
+ }
+ .play-button
+ {
+  top: 70%;
+    left: 53%;
+ }
+
+ .videocontent h3
+ {
+  padding-top: 123px;
+  font-size: 28px;
+ }
+ .applybuttons
+ {
+  font-size: 14px;
+ }
+
+ .assetsbannerone
+ {
+  height: 480px !important;
+ }
+
+ #bg-videos
+ {
+  min-height: 67vh !important;
+ }
+ .chat-box 
+ {
+   top: 140px !important;
+ }
+
+ .contactofiice
+ {
+   padding-left: 0px;
+ }
+   
+ .addressbackground
+ {
+ background: linear-gradient(to right, #fff 63%, #F0F4E9 37%);
+   display: flex;
+   justify-content: center;
+ }
+
+ .social-icons
+{
+  margin-top: 20px !important;
+}
+
+.footerlocation
+{
+  display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 14px;
+    margin-top: 23px;
+    text-align: center;
+    color: #fff;
+}
+
+.assetsbannercontainer
+{
+  left: 10%;
+}
+
+.selfserviceheading {
+  padding-top: 180px !important;
+}
+
+.productlistimg {
+  display: block;
+}
+.aboutbanner
+{
+  height: auto;
+  padding-bottom: 200px;
+}
+
+.adresshead
+{
+  text-align: left;
+}
+
+.contactss
+{
+  justify-content: start;
+}
+}
+
+/* Laptops (15-inch, 16-inch) */
+@media only screen and (min-width: 1440px) {
+  .bannercontainerbackground
+  {
+
+   width: 100%;
+   height: auto;
+   margin-top: -160px !important;
+
+  }
+
+
+  li.active::after {
+    padding-bottom: 13px !important;
+}
+
+  .vectorbackground {
+    margin-top: -255px;
+    width: 42%;
+    height: 476px;
+    margin-left: 20px;
+  }
+
+  .bannerh6
+  {
+    font-size: 39px;
+  }
+
+
+  .header-carousel .owl-nav {
+
+    width: 460px;
+    height: 80px;
+    bottom: 163px;
+    left: 50%;
+    transform: translateX(-50%);
+    display: flex;
+    justify-content: space-between;
+ }
+ .play-button
+ {
+  top: 70%;
+    left: 53%;
+ }
+
+ .videocontent h3
+ {
+  padding-top: 130px;
+  font-size: 28px;
+ }
+ .applybuttons
+ {
+  font-size: 14px;
+ }
+
+ .assetsbannerone
+ {
+  height: 531px !important;
+ }
+
+ #bg-videos
+ {
+  min-height: 67vh !important;
+ }
+
+ .chat-box 
+ {
+   top: 140px !important;
+ }
+ .contactofiice
+ {
+   padding-left: 0px;
+ }
+   
+ .addressbackground
+ {
+ background: linear-gradient(to right, #fff 63%, #F0F4E9 37%);
+   display: flex;
+   justify-content: center;
+ }
+
+ .social-icons
+{
+  margin-top: 20px !important;
+}
+
+.footerlocation
+{
+  display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 14px;
+    margin-top: 23px;
+    text-align: center;
+    color: #fff;
+}
+
+.assetsbannercontainer
+{
+  left: 10%;
+}
+
+.selfserviceheading {
+  padding-top: 180px !important;
+}
+
+.productlistimg {
+  display: block;
+}
+
+.aboutbanner
+{
+  height: auto;
+  padding-bottom: 200px;
+}
+
+.adresshead
+{
+  text-align: left;
+}
+
+.contactss
+{
+  justify-content: start;
+}
+}
+
+@media only screen and (min-width: 1600px) {
+  
+  .bannercontainerbackground
+  {
+
+   width: 100%;
+   height: auto;
+   margin-top: -210px !important;
+   margin-bottom: 20px;
+
+  }
+
+  .vectorbackground {
+    margin-top: -269px;
+    width: 42%;
+    height: 486px;
+    margin-left: 20px;
+  }
+
+
+  li.active::after {
+    padding-bottom: 13px !important;
+}
+
+  .bannerh6
+  {
+    font-size: 39px;
+  }
+
+
+  .header-carousel .owl-nav {
+
+    width: 484px;
+    height: 80px;
+    bottom: 165px;
+    left: 50%;
+    transform: translateX(-50%);
+    display: flex;
+    justify-content: space-between;
+ }
+ .play-button
+ {
+  top: 70%;
+    left: 53%;
+ }
+
+ .videocontent h3
+ {
+  padding-top: 10px;
+  font-size: 28px;
+ }
+ .applybuttons
+ {
+  font-size: 14px;
+ }
+ .videocontent {
+  padding-top: 206px;
+}
+ .assetsbannerone
+ {
+  height: 560px !important;
+ }
+
+ #bg-videos
+ {
+  min-height: 45vh !important;
+ }
+
+ .chat-box 
+ {
+   top: 190px !important;
+ }
+
+ .contactofiice
+ {
+   padding-left: 0px;
+ }
+
+
+   
+ .addressbackground
+ {
+ background: linear-gradient(to right, #fff 62%, #F0F4E9 38%);
+   display: flex;
+   justify-content: center;
+ }
+
+
+ .social-icons
+{
+  margin-top: 20px !important;
+}
+
+.footerlocation
+{
+  display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 14px;
+    margin-top: 23px;
+    text-align: center;
+    color: #fff;
+}
+
+
+.assetsbannercontainer
+{
+  left: 10%;
+}
+
+.selfserviceheading {
+  padding-top: 180px !important;
+}
+
+.productlistimg {
+  display: block;
+}
+
+.aboutbanner
+{
+  height: auto;
+  padding-bottom: 200px;
+}
+
+.adresshead
+{
+  text-align: left;
+}
+
+.contactss
+{
+  justify-content: start;
+}
+
+}
+
+
+@media only screen and (min-width: 1920px) {
+  
+  .bannercontainerbackground
+  {
+
+   width: 100%;
+   height: auto;
+   margin-top: -210px !important;
+
+  }
+
+  li.active::after {
+    padding-bottom: 13px !important;
+}
+
+  .vectorbackground {
+    margin-top: -271px;
+    width: 42%;
+    height: 500px;
+    margin-left: 20px;
+  }
+
+  .bannerh6
+  {
+    font-size: 39px;
+  }
+
+
+  .header-carousel .owl-nav {
+
+    width: 480px;
+    height: 80px;
+    bottom: 166px;
+    left: 50%;
+    transform: translateX(-50%);
+    display: flex;
+    justify-content: space-between;
+ }
+ .play-button
+ {
+  top: 70%;
+    left: 53%;
+ }
+
+ .videocontent h3
+ {
+  padding-top: 6px;
+  font-size: 28px;
+ }
+ .applybuttons
+ {
+  font-size: 14px;
+ }
+
+ .assetsbannerone
+ {
+  height: 680px !important;
+ }
+
+ #bg-videos
+ {
+  min-height: 67vh !important;
+ }
+
+ 
+ .chat-box 
+ {
+   top: 230px !important;
+ }
+ .contactofiice
+ {
+   padding-left: 0px;
+ }
+
+   
+ .addressbackground
+ {
+ background: linear-gradient(to right, #fff 63%, #F0F4E9 37%);
+   display: flex;
+   justify-content: center;
+ }
+
+ .social-icons
+{
+  margin-top: 20px !important;
+}
+
+.footerlocation
+{
+  display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 14px;
+    margin-top: 23px;
+    text-align: center;
+    color: #fff;
+}
+
+.assetsbannercontainer
+{
+  left: 10%;
+}
+
+.selfserviceheading {
+  padding-top: 180px !important;
+}
+
+.productlistimg {
+  display: block;
+}
+.aboutbanner
+{
+  height: auto;
+  padding-bottom: 200px;
+}
+.adresshead
+{
+  text-align: left;
+}
+.contactss
+{
+  justify-content: start;
+}
+}
+
+
+@media only screen and (min-width: 2560px) {
+  
+  .bannercontainerbackground
+  {
+
+   width: 100%;
+   height: auto;
+   margin-top: -210px !important;
+   margin-bottom: 20px;
+
+  }
+
+  li.active::after {
+    padding-bottom: 13px !important;
+}
+
+  .vectorbackground {
+    margin-top: -272px;
+    width: 42%;
+    height: 486px;
+    margin-left: 20px;
+  }
+
+  .bannerh6
+  {
+    font-size: 39px;
+  }
+
+
+  .header-carousel .owl-nav {
+
+    width: 484px;
+    height: 80px;
+    bottom: 164px;
+    left: 50%;
+    transform: translateX(-50%);
+    display: flex;
+    justify-content: space-between;
+ }
+ .play-button
+ {
+  top: 70%;
+    left: 53%;
+ }
+
+ .videocontent h3
+ {
+  padding-top: 6px;
+  font-size: 28px;
+ }
+ .applybuttons
+ {
+  font-size: 14px;
+ }
+
+ .assetsbannerone
+ {
+  height: 900px !important;
+ }
+
+ #bg-videos
+ {
+  min-height: 67vh !important;
+ }
+
+
+ .chat-icons {
+  right: 186px;
+  bottom: 232px;
+}
+
+.chat-box {
+
+  top: 365px;
+}
+
+.contactofiice
+{
+  padding-left: 0px;
+}
+  
+.addressbackground
+{
+background: linear-gradient(to right, #fff 63%, #F0F4E9 37%);
+  display: flex;
+  justify-content: center;
+}
+.social-icons
+{
+  margin-top: 20px !important;
+}
+
+.footerlocation
+{
+  display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 14px;
+    margin-top: 23px;
+    text-align: center;
+    color: #fff;
+}
+
+.aboutbanner
+{
+  height: auto;
+  padding-bottom: 200px;
+}
+.adresshead
+{
+  text-align: left;
+}
+.contactss
+{
+  justify-content: start;
+}
+}

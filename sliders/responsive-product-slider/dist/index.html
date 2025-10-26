@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Owl Carousel - Stop on Hover</title>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet">
+  
+  <!-- Owl Carousel CSS -->
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/owl.carousel@2.3.4/dist/assets/owl.carousel.min.css">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/owl.carousel@2.3.4/dist/assets/owl.theme.default.min.css">
+  
+  <style>
+    #owl-demo .items {
+        margin: 3px;
+        color: #000;
+        border-radius: 3px;
+        text-align: center;
+        cursor: pointer;
+        display: flex;
+        padding: 10px;
+        background: #f8f9fa;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .bannerarrows {
+      padding-left: 12px;
+    }
+
+    /* Hide navigation arrows */
+
+  </style>
+</head>
+<body>
+
+<div class="container mt-5">
+  <div id="owl-demo" class="owl-carousel owl-theme">
+    <div class="item">
+      <div class="items">
+        <div><span>Service 1</span></div>
+        <div class="bannerarrows"><img src="img/arrow.png" /></div>
+      </div>
+    </div>
+    <div class="item">
+      <div class="items">
+        <div><span>Service 2</span></div>
+        <div class="bannerarrows"><img src="img/arrow.png" /></div>
+      </div>
+    </div>
+    <div class="item">
+      <div class="items">
+        <div><span>Service 3</span></div>
+        <div class="bannerarrows"><img src="img/arrow.png" /></div>
+      </div>
+    </div>
+    <div class="item">
+      <div class="items">
+        <div><span>Service 4</span></div>
+        <div class="bannerarrows"><img src="img/arrow.png" /></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- jQuery -->
+<script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
+
+<!-- Owl Carousel JS -->
+<script src="https://cdn.jsdelivr.net/npm/owl.carousel@2.3.4/dist/owl.carousel.min.js"></script>
+
+<script>
+  $(document).ready(function() {
+    var owl = $("#owl-demo").owlCarousel({
+      autoplay: true,
+      autoplayTimeout: 3500,
+      autoplayHoverPause: true,
+      smartSpeed: 1500,
+      loop: true,
+      dots: true, // Initially enabled
+      nav: true, // Initially enabled
+      navText: ["&#9664;", "&#9654;"], 
+      items: 4,
+      responsive: {
+        0: { items: 1 },
+        600: { items: 2 },
+        1000: { items: 4 }
+      }
+    });
+
+    // Hide navigation and dots after initialization
+   
+  });
+</script>
+
+
+</body>
+</html>
+

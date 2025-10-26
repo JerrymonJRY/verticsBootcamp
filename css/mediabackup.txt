@@ -1,0 +1,542 @@
+
+@media screen and (max-width: 1440px) {
+  .bannercontainerbackground {
+      left: 8%;
+       margin-top: -262px !important;
+  }
+
+  .header-carousel .owl-nav {
+       bottom: 222px !important;
+       left: 50% !important;
+        width: 404px !important;
+
+
+  }
+  .aboutbackground {
+    /* width: 100%; */
+  }
+}
+/*@media screen and (min-width: 1320px) {*/
+/*  .bannercontainerbackground {*/
+/*      left: 6%;*/
+/*       margin-top: -178px !important;*/
+/*  }*/
+
+/*  .header-carousel .owl-nav {*/
+/*       bottom: 259px !important;*/
+/*       left: 50% !important;*/
+/*        width: 454px !important;*/
+
+
+/*  }*/
+/*  .aboutbackground {*/
+    /* width: 100%; */
+/*  }*/
+/*}*/
+@media screen and (min-width: 1024px) {
+  .header-carousel .owl-dots {
+    bottom: 50px;
+  }
+  .owl-carousel .owl-item img {
+    display: block;
+    width: 65%;
+  }
+}
+
+@media screen and (max-width: 990px) {
+  .vectorbackground {
+      margin-top: -90px;
+  }
+  .header-carousel .owl-nav {
+    width: 280px;
+    height: 40px;
+    bottom: 164px;
+  }
+  .owl-carousel .owl-item img {
+    width: 65%;
+}
+.centerbackground {
+  padding-top: 250px;
+  padding-bottom: 75px;
+}
+}
+
+@media screen and (min-device-width: 768px)
+    and (max-device-width: 1024px) {
+
+}
+@media screen and (max-width: 767px) {
+  .right-button {
+    display: flex;
+    gap: 9px;
+  }
+  .bannerbackground {
+    width: 100%;
+    height: 450px;
+  }
+  .owl-carousel .owl-item img {
+    width: 60%;
+  }
+  .layerimg {
+    width: 100%;
+}
+  .layerimg img {
+    margin-right: 10px;
+    text-align: center;
+    margin: 0 auto;
+  }
+  .layerexplore {
+    float: unset;
+    display: inline-block;
+    width: 100%;
+    text-align: center;
+}
+}
+
+/* For Mobile Portrait View */
+
+@media screen and (max-device-width: 375px)
+    and (orientation: portrait) {
+
+      .bannerh6
+      {
+
+
+           font-size: 22px !important;
+
+      }
+      .header-carousel .owl-nav
+      {
+        height: 61px !important;
+      }
+      .vectorbackground
+      {
+        width: 100% !important;
+        height: 313px !important;
+      }
+    }
+
+    @media screen and (max-device-width: 390px)
+    and (orientation: portrait) {
+      .vectorbackground
+      {
+        width: 100% !important;
+        height: 300px !important;
+      }
+
+      .bannerh6
+      {
+
+
+           font-size: 22px !important;
+
+      }
+    }
+
+    @media screen and (max-device-width: 1024px)
+    and (orientation: portrait) {
+      .vectorbackground
+      {
+        /* width: 100% !important; */
+
+      }
+
+      .bannercontainerbackground
+      {
+        left: 2%;
+      }
+
+      .bannerh6
+      {
+
+        margin-top: -67px;
+        font-size: 28px;
+        margin-right: 32px;
+      }
+
+      .header .menu > ul > li {
+        margin-left: 11px;
+      }
+    }
+@media screen and (max-device-width: 480px)
+    and (orientation: portrait) {
+   .vectorbackground
+   {
+    width: 100%;
+    height: 344px;
+    /* margin-left: -13px; */
+    margin: 0 auto;
+        margin-top: -151px;
+
+
+   }
+
+   .header-carousel .owl-nav {
+    position: absolute;
+    width: 293px;
+    height: 80px;
+    bottom: 116px;
+    left: 50%;
+    transform: translateX(-50%);
+    display: flex;
+    justify-content: space-between;
+}
+.header-carousel .owl-dots {
+    bottom: 17px;
+
+}
+
+   .carousel-item
+   {
+    top: 39px;
+   }
+   .bannerh6
+   {
+
+    display: block;
+        margin-top: -408px;
+        font-size: 24px;
+        margin-right: 32px;
+   }
+   .layertexts
+   {
+    padding-top: 5px;
+    padding-bottom: 6px;
+    border-bottom: 1px solid #eee;
+   }
+
+   .bannercontainerbackground
+   {
+    left: 11px;
+    width: 95%;
+    height: auto;
+
+   }
+   .subheaders
+   {
+   display: block;
+   }
+   .left-buttons
+   {
+    float: left;
+        margin-left: -20px;
+        font-size: 13px;
+    }
+    .right-button
+    {
+      margin-right: 0px;
+    }
+.logins
+{
+  display: block;
+}
+    .topbaricons
+    {
+      padding: 5px 11px;
+      margin-left: 17px;
+    }
+    .search-box input
+    {
+      padding: 5px 10px 5px 32px;
+      border-radius: 20px 20px 20px 20px;
+    }
+
+.loginicons
+{
+  padding-top: 6px !important;
+}
+    .loginbaricons
+    {
+      padding: 9px 27px !important
+    }
+
+
+   .centerbackground
+   {
+    padding-top: 650px;
+    padding-bottom: 100px;
+
+   }
+   .serviceicons
+   {
+    margin-bottom: 20px;
+   }
+   .navbar .nav-link::after {
+   display: none;
+  }
+  .mapwidth
+  {
+    width: 50% !important;
+  }
+
+  .aboutbanner
+  {
+    height: auto;
+  }
+
+  .aboutbackground
+  {
+    height: auto;
+    left: 0;
+    margin-top: 20px;
+    padding-bottom: 16px;
+  }
+  .aboutsbackground
+  {
+    padding-top: 260px;
+  }
+
+  .logintext
+  {
+    display: none;
+  }
+
+  .aboutsbackgrounds
+  {
+    padding-top: 80px !important;
+  }
+  .video
+  {
+    padding-top: 100px;
+  }
+
+  .videocontent
+  {
+    padding-top: 50px;
+  }
+  /* .ourproductsbanner
+  {
+    height: auto;
+  }
+  .assetsbannerone
+  {
+    height: auto;
+  }
+  .assetsbannertwo
+  {
+    height: auto;
+  }
+
+  .assetsbannerthree
+  {
+    height: auto;
+  } */
+  .ourproducts
+  {
+    padding-top: 100px !important;
+  }
+  .addressbackground
+  {
+    background: #ffff;
+  }
+
+
+.navbar-light .navbar-toggler {
+    color: rgb(215 17 17 / 0%);
+    border-color: rgb(215 17 17 / 0%);
+}
+}
+
+/* For Mobile Landscape View */
+@media screen and (max-device-width: 640px)
+    and (orientation: landscape) {
+
+}
+
+/* For Mobile Phones Portrait or Landscape View */
+@media screen
+    and (max-device-width: 640px) {
+
+}
+
+/* For iPhone 4 Portrait or Landscape View */
+@media screen and (min-device-width: 320px)
+    and (-webkit-min-device-pixel-ratio: 2) {
+
+}
+
+/* For iPhone 5 Portrait or Landscape View */
+@media (device-height: 568px)
+    and (device-width: 320px)
+    and (-webkit-min-device-pixel-ratio: 2) {
+
+}
+
+/* For iPhone 6 and 6 plus Portrait or Landscape View */
+@media (min-device-height: 667px)
+    and (min-device-width: 375px)
+    and (-webkit-min-device-pixel-ratio: 3) {
+
+};
+
+
+@media screen and (max-device-width: 430px)
+    and (orientation: portrait) {
+   .vectorbackground
+   {
+    width: 96%;
+    height: 300px;
+    margin-left: 3px;
+
+   }
+
+   .header-carousel .owl-nav {
+    position: absolute;
+    width: 293px;
+    height: 40px;
+    bottom: 116px;
+    left: 50%;
+    transform: translateX(-50%);
+    display: flex;
+    justify-content: space-between;
+}
+.header-carousel .owl-dots {
+    bottom: 2px;
+
+}
+
+   .carousel-item
+   {
+    top: 39px;
+   }
+   .bannerh6
+   {
+    display: none;
+   }
+
+   .bannercontainerbackground
+   {
+    left: 11px;
+    width: 95%;
+    height: auto;
+
+   }
+   .subheaders
+   {
+   display: block;
+   }
+   .left-buttons
+   {
+    float: left;
+        margin-left: -20px;
+        font-size: 9px;
+    }
+.logins
+{
+  display: none;
+}
+    .topbaricons
+    {
+      padding: 5px 11px;
+    }
+    .search-box input
+    {
+      padding: 5px 0px;
+      border-radius: 20px 20px 20px 20px;
+    }
+
+    .search-box
+   .centerbackground
+   {
+    padding-top: 364px;
+    padding-bottom: 100px;
+
+   }
+   .serviceicons
+   {
+    margin-bottom: 20px;
+   }
+   .navbar .nav-link::after {
+   display: none;
+  }
+  .mapwidth
+  {
+    width: 50% !important;
+  }
+
+  .aboutbanner
+  {
+    height: auto;
+  }
+
+  .aboutbackground
+  {
+    height: auto;
+    left: 0;
+    margin-top: 20px;
+  }
+  .aboutsbackground
+  {
+    padding-top: 265px;
+  }
+  .video
+  {
+    padding-top: 100px;
+  }
+
+  .videocontent
+  {
+    padding-top: 50px;
+  }
+  /* .ourproductsbanner
+  {
+    height: auto;
+  }
+  .assetsbannerone
+  {
+    height: auto;
+  }
+  .assetsbannertwo
+  {
+    height: auto;
+  }
+
+  .assetsbannerthree
+  {
+    height: auto;
+  } */
+  .ourproducts
+  {
+    padding-top: 100px !important;
+  }
+  .addressbackground
+  {
+    background: #ffff;
+  }
+
+
+.navbar-light .navbar-toggler {
+    color: rgb(215 17 17 / 0%);
+    border-color: rgb(215 17 17 / 0%);
+}
+}
+
+@media (max-width: 1024px) {
+  li.active::after {
+    border-bottom: 1px solid #fff;
+    width: 100%;
+    margin-left: 0;
+  }
+
+  .header .item-left{
+    flex:0 0 20%;
+  }
+  .header .logo a{
+    font-size: 40px;
+    color:#000000;
+    font-weight: 700;
+    text-decoration: none;
+  }
+  .header .item-center{
+    flex:0 0 80%;
+  }
+
+
+  .header .menu > ul > li {
+    display: block;
+    line-height: 0px;
+    /* margin-left: 25px; */
+    padding-top: 23px;
+}
+
+}
